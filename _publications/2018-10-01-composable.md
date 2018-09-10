@@ -1,7 +1,7 @@
 ---
 title: "Composable Learning with Sparse Kernel Representations"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2018-10-01-composable
 excerpt: ''
 date: 2018-10-1
 venue: 'International Conference on Intelligent Robots and Systems'
