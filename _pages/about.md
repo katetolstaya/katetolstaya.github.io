@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I'm a 3rd year doctoral student at the University of Pennsylvania advised by Alejandro Ribeiro and Vijay Kumar. My research interests lie at the intersection of robotics, multi-agent systems, learning, and simulation. 
+I'm a doctoral student at the University of Pennsylvania advised by Alejandro Ribeiro and Vijay Kumar. My research interests lie at the intersection of robotics, multi-agent systems, learning, and simulation. 
