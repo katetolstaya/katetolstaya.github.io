@@ -2,7 +2,7 @@
 title: "Composable Learning with Sparse Kernel Representations"
 collection: publications
 permalink: /publication/2018-10-01-composable
-excerpt: ''
+excerpt: '<a href="https://youtu.be/kWIigy5MWdU"> View the Video </a>'
 date: 2018-10-1
 venue: 'International Conference on Intelligent Robots and Systems'
 paperurl: 'http://academicpages.github.io/files/c_2018_tolstaya_etal_b.pdf'
