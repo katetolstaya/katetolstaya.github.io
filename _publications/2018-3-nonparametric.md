@@ -10,5 +10,5 @@ citation: 'A. Koppel*, E. Tolstaya*, E. Stump, and A. Ribeiro, ”Nonparametric 
 IEEE Trans. Automatic Control (submitted), Mar. 2018.'
 ---
 
-<a href="http://katetolstaya.github.io/files/2018_ACC.pdf"> Slides</a>
+[Slides](http://katetolstaya.github.io/files/2018_ACC.pdf)
 
