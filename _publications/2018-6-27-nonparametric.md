@@ -2,7 +2,7 @@
 title: "Nonparametric Stochastic Compositional Gradient Descent for Q-Learning in Continuous Markov Decision Problems"
 collection: publications
 permalink: /publication/2018-6-27-nonparametric
-excerpt: 
+excerpt: '<a href="https://github.com/katetolstaya/kernelrl"> [Code] </a> '
 date: 2018-6-27
 venue: 'American Control Conference'
 paperurl: 'http://katetolstaya.github.io/files/c_2018_tolstaya_etal_a.pdf'
