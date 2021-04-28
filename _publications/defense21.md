@@ -2,12 +2,12 @@
 title: "Scalable Learning in Distributed Robot Teams"
 collection: publications
 permalink: /publication/2021-defense
-excerpt: '<a href="https://katetolstaya.github.io/files/thesis.pdf"> [Dissertation] </a> <a href="https://youtu.be/6TdE42DG47c"> [Talk] </a> <a href="https://events.seas.upenn.edu/event/ese-thesis-defense-scalable-learning-in-distributed-robot-teams/"> [Info] </a> '
+excerpt: '<a href="https://katetolstaya.github.io/files/thesis.pdf"> [Dissertation] </a> <a href="https://youtu.be/6TdE42DG47c"> [Talk] </a> <a href="https://events.seas.upenn.edu/event/ese-thesis-defense-scalable-learning-in-distributed-robot-teams/"> [Additional Info] </a> '
 date: 2021-4-21
 venue: 'Doctoral Dissertation, University of Pennsylvania'
 ---
 
-<a href="https://katetolstaya.github.io/files/thesis.pdf"> [Dissertation] </a> <a href="https://youtu.be/6TdE42DG47c"> [Talk] </a> 
+<a href="https://katetolstaya.github.io/files/thesis.pdf"> [Dissertation] </a> <a href="https://youtu.be/6TdE42DG47c"> [Talk] </a> <a href="https://events.seas.upenn.edu/event/ese-thesis-defense-scalable-learning-in-distributed-robot-teams/"> [Additional Info] </a>  
 
 Mobile robots are already in use for mapping, agriculture, entertainment, and the delivery of goods and people. As robotic systems continue to become more affordable, large numbers of mobile robots may be deployed concurrently to accomplish tasks faster and more efficiently. Practical deployments of very large teams will require scalable algorithms to enable the distributed cooperation of autonomous agents. This thesis focuses on the three main algorithmic obstacles to the scalability of robot teams: coordination, control, and communication. To address these challenges, we design graph-based abstractions that allow us to apply Graph Neural Networks (GNNs).
 
