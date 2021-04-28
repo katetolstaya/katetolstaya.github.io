@@ -9,4 +9,6 @@ redirect_from:
 ---
 
 
-I'm a doctoral student at the University of Pennsylvania advised by Alejandro Ribeiro and Vijay Kumar. My research interests lie at the intersection of robotics, multi-agent systems, learning, and simulation. 
+
+Kate received her Ph.D. in Electrical and Systems Engineering from the University of Pennsylvania in 2021. She received her M.S. in Robotics from the University of Pennsylvania in 2017. She received her B.S. in Electrical Engineering and Computer Science from the University of Maryland, College Park, in 2016.
+Her interests lie at the intersection of robotics and machine learning, with a particular emphasis on multi-robot and multi-agent systems. Kate is grateful for the support of the National Science Foundation as a Graduate Research Fellow. Kate was an intern at Microsoft Research, DeepMind, and Waymo.
