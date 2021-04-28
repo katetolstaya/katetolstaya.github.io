@@ -2,12 +2,12 @@
 title: "Composable Learning with Sparse Kernel Representations"
 collection: publications
 permalink: /publication/2018-10-01-composable
-excerpt: '<a href="https://arxiv.org/pdf/2103.14474.pdf"> [Paper] </a> <a href="https://youtu.be/kWIigy5MWdU"> [Video] </a> <a href="http://katetolstaya.github.io/files/Composable_Learning_Poster.pdf"> [Poster] </a> <a href="http://katetolstaya.github.io/files/Composable_Learning_slides.pdf"> [Slides] </a> <a href="https://github.com/katetolstaya/kernelrl"> [Code] </a> '
+excerpt: '<a href="https://arxiv.org/pdf/2103.14474.pdf"> [Paper] </a> <a href="https://youtu.be/kWIigy5MWdU"> [Demo Video] </a> <a href="http://katetolstaya.github.io/files/Composable_Learning_Poster.pdf"> [Poster] </a> <a href="http://katetolstaya.github.io/files/Composable_Learning_slides.pdf"> [Slides] </a> <a href="https://github.com/katetolstaya/kernelrl"> [Code] </a> '
 date: 2018-10-1
 venue: 'International Conference on Intelligent Robots and Systems'
 ---
 
-<a href="https://arxiv.org/pdf/2103.14474.pdf"> [Paper] </a> <a href="https://youtu.be/kWIigy5MWdU"> [Video] </a> <a href="http://katetolstaya.github.io/files/Composable_Learning_Poster.pdf"> [Poster] </a> <a href="http://katetolstaya.github.io/files/Composable_Learning_slides.pdf"> [Slides] </a> <a href="https://github.com/katetolstaya/kernelrl"> [Code] </a>
+<a href="https://arxiv.org/pdf/2103.14474.pdf"> [Paper] </a> <a href="https://youtu.be/kWIigy5MWdU"> [Demo Video] </a> <a href="http://katetolstaya.github.io/files/Composable_Learning_Poster.pdf"> [Poster] </a> <a href="http://katetolstaya.github.io/files/Composable_Learning_slides.pdf"> [Slides] </a> <a href="https://github.com/katetolstaya/kernelrl"> [Code] </a>
 
 We present a reinforcement learning algorithm for learning sparse non-parametric controllers in a Reproducing Kernel Hilbert Space.  
 We improve the sample complexity of this approach by imposing a structure of the state-action function through a normalized advantage function (NAF). This representation of the policy enables efficiently composing multiple learned models without additional training samples or interaction with the environment.
